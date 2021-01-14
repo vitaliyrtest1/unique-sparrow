@@ -11,7 +11,7 @@ sections:
       who need a sleek, modern SaaS site. 
     actions:
       - label: Learn More
-        url: /features
+        url: 'http://salen.dev'
         style: primary
   - section_id: features
     type: section_features
